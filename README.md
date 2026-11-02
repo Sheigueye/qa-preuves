@@ -1,5 +1,3 @@
-# qa-preuves
-Portfolio QA : cas de test, anomalies, tests API
 # QA : dépôt de preuves
 
 Auteur : Cheikh Ahmad Gueye
